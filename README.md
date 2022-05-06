@@ -1,4 +1,3 @@
-# MGCCN
 This is a simple tensorflow implementation of the paper: Multilayer Graph Contrastive Clustering Network
 
 ## Requirements
